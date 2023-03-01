@@ -13,9 +13,9 @@ import (
 	"github.com/gorilla/websocket"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"github.com/shipt/specter/internal/broadcast"
-	"github.com/shipt/specter/internal/logprocessor"
-	"github.com/shipt/specter/internal/maxmind"
+	"go.smantic.dev/access-viz/internal/broadcast"
+	"go.smantic.dev/access-viz/internal/logprocessor"
+	"go.smantic.dev/access-viz/internal/maxmind"
 )
 
 // Template contains html/templates

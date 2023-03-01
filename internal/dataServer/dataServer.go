@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/shipt/specter/cmd"
+	"go.smantic.dev/access-viz/cmd"
 
 	"github.com/namsral/flag"
 	"github.com/pkg/errors"

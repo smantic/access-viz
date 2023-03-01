@@ -5,11 +5,11 @@ import (
 	"net"
 	"strings"
 
-	"github.com/shipt/specter/internal/ttlcache"
+	"go.smantic.dev/access-viz/internal/ttlcache"
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/shipt/specter/internal/maxmind"
+	"go.smantic.dev/access-viz/internal/maxmind"
 )
 
 // Client contains the information needed to communicate with maxMind

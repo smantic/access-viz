@@ -1,4 +1,4 @@
-module access-viz
+module go.smantic.dev/access-viz
 
 go 1.18
 

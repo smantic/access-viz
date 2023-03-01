@@ -6,7 +6,7 @@ import (
 	"github.com/sirupsen/logrus"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/shipt/specter/internal/dataServer"
+	"go.smantic.dev/access-viz/internal/dataServer"
 )
 
 var logLevel string
