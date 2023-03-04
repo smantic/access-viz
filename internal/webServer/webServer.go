@@ -10,7 +10,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/gorilla/websocket"
+	"go.smantic.dev/websocket"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"go.smantic.dev/access-viz/internal/broadcast"

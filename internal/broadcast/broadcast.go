@@ -3,7 +3,7 @@ package broadcast
 import (
 	"sync"
 
-	"github.com/gorilla/websocket"
+	"go.smantic.dev/websocket"
 	log "github.com/sirupsen/logrus"
 )
 
