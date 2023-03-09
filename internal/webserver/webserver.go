@@ -10,12 +10,12 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"go.smantic.dev/websocket"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"go.smantic.dev/access-viz/internal/broadcast"
 	"go.smantic.dev/access-viz/internal/logprocessor"
 	"go.smantic.dev/access-viz/internal/maxmind"
+	"go.smantic.dev/websocket"
 )
 
 // Template contains html/templates
